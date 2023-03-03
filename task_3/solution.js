@@ -1,6 +1,5 @@
 function renderCartItem(item) {
-    const product = {id: 1, title: 'Пицца', count: 5, price: '500.00'};
-
+    const product = item;
     // Задание №3.1. Формирование строки корзины
 
     // id - идентификатор
